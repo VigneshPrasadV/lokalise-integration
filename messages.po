@@ -1,0 +1,15 @@
+#: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
+msgid "Hide"
+msgstr "Hide test"
+
+#: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
+msgid "Show"
+msgstr "Show"
+
+#: src/incremental-onboarding/components/TaxProfile/index.tsx:48
+msgid "Tax Profile"
+msgstr "Tax Profile"
+
+#: src/incremental-onboarding/strings.ca.ts:136
+msgid "Back"
+msgstr "Back"
