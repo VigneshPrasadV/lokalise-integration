@@ -10,14 +10,22 @@ msgstr ""
 "Language-Team: lokalise.com\n\n"
 "Language: en\n"
 
-msgid "Hide"
-msgstr "Hide test"
+#: src/incremental-onboarding/strings.ca.ts:137
+msgid "Cancel"
+msgstr "Cancel"
 
-msgid "Show"
-msgstr "Show"
+#: src/incremental-onboarding/strings.ca.ts:138
+msgid "Previous"
+msgstr "Previous"
 
-msgid "Tax Profile"
-msgstr "Tax Profile"
+#: src/incremental-onboarding/strings.ca.ts:140
+msgid "Save draft"
+msgstr "Save draft"
 
-msgid "Back"
-msgstr "Back"
+#: src/incremental-onboarding/strings.ca.ts:141
+msgid "Continue"
+msgstr "Continue"
+
+#: src/incremental-onboarding/strings.ca.ts:143
+msgid "Next"
+msgstr "Next"
