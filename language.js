@@ -7,6 +7,7 @@ module.exports = {
     Cancel: "Cancel",
     Previous: "Previous",
     "Save draft": "Save draft",
-    Continue: "Continue"
+    Continue: "Continue",
+    "Country/Religion": "Country/Religion"
     }
 };
