@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: Git integration\n"
+"PO-Revision-Date: 2022-10-12 07:29\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: lokalise.com\n\n"
+"Language: en\n"
+
+#: src/catalog-porting/strings.us.js:4
+msgid "Import Your Items"
+msgstr "Import Your Items"
+
+#: src/catalog-porting/strings.us.js:5
+msgid "You can now import items from your Walmart US marketplace to Canada marketplace"
+msgstr "You can now import items from your Walmart US marketplace to Canada marketplace"
