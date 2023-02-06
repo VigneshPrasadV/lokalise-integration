@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: lokalise.com\n"
+"Project-Id-Version: 30711d301a8b245428b809b8394c5844\n"
+"PO-Revision-Date: 2023-02-06 15:58\n"
+"Last-Translator: lokalise.com\n"
+"Language-Team: Spanish, Chile\n"
+"Language: es_CL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 30711d301a8b245428b809b8394c5844\n"
+"X-Crowdin-Project-ID: 28\n"
+"X-Crowdin-Language: es-CL\n"
+"X-Crowdin-File: /main/catalog-porting/en/messages.po\n"
+"X-Crowdin-File-ID: 9010\n"
+
+#: src/catalog-porting/strings.us.js:4
+msgid "Import Your Items"
+msgstr "Importa tus artículos"
+
+#: src/catalog-porting/strings.us.js:5
+msgid "You can now import items from your Walmart US marketplace to Canada marketplace"
+msgstr "Ahora puede importar artículos de su mercado Walmart de Estados Unidos al mercado canadiense"
+

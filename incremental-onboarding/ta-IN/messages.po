@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 30711d301a8b245428b809b8394c5844\n"
+"X-Crowdin-Project-ID: 28\n"
+"X-Crowdin-Language: ta\n"
+"X-Crowdin-File: /main/incremental-onboarding/en/messages.po\n"
+"X-Crowdin-File-ID: 9012\n"
+"Project-Id-Version: 30711d301a8b245428b809b8394c5844\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Tamil\n"
+"Language: ta_IN\n"
+"PO-Revision-Date: 2023-02-06 15:58\n"
+
+#: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
+msgid "Hide"
+msgstr ""
+
+#: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
+msgid "Show"
+msgstr ""
+
+#: src/incremental-onboarding/components/TaxProfile/index.tsx:48
+msgid "Tax Profile"
+msgstr ""
+
+#: src/incremental-onboarding/strings.ca.ts:136
+msgid "Back"
+msgstr ""
+
