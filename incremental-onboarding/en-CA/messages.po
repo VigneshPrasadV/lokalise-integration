@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English, Canada\n"
 "Language: en_CA\n"
-"PO-Revision-Date: 2023-02-06 15:58\n"
+"PO-Revision-Date: 2023-02-06 16:14\n"
 
 #: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
 msgid "Hide"
-msgstr "Hide"
+msgstr ""
 
 #: src/incremental-onboarding/components/HiddenLabel/index.tsx:34
 msgid "Show"
-msgstr "Show"
+msgstr ""
 
 #: src/incremental-onboarding/components/TaxProfile/index.tsx:48
 msgid "Tax Profile"
@@ -26,5 +26,5 @@ msgstr ""
 
 #: src/incremental-onboarding/strings.ca.ts:136
 msgid "Back"
-msgstr "Back"
+msgstr ""
 
