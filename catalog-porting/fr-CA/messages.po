@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: lokalise.com\n"
 "Project-Id-Version: 30711d301a8b245428b809b8394c5844\n"
-"PO-Revision-Date: 2023-02-06 15:58\n"
+"PO-Revision-Date: 2023-02-06 16:14\n"
 "Last-Translator: lokalise.com\n"
 "Language-Team: French, Canada\n"
 "Language: fr_CA\n"
@@ -18,9 +18,9 @@ msgstr ""
 
 #: src/catalog-porting/strings.us.js:4
 msgid "Import Your Items"
-msgstr "Importer vos articles"
+msgstr ""
 
 #: src/catalog-porting/strings.us.js:5
 msgid "You can now import items from your Walmart US marketplace to Canada marketplace"
-msgstr "Vous pouvez maintenant importer des articles de votre place de marché Walmart US sur la place de marché du Canada"
+msgstr ""
 
